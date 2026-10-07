@@ -1,0 +1,6 @@
+{
+  "name": "Join4Join - Discord Server Growth Network",
+  "description": "Plateforme #1 de croissance de serveurs Discord. Rejoignez des serveurs, gagnez des pièces et boostez votre communauté avec des membres réels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
